@@ -74,3 +74,10 @@ To build a predictive model that estimates the **IMDB rating** of a movie based 
 
 This project was developed as part of the **CodSoft Data Science Internship**.
 
+---
+
+## Author
+
+* **Tushar Surja**
+* **Batch**: June 2025 batch B33
+* **Domain**: Data Science
